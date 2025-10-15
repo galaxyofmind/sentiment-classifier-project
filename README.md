@@ -11,7 +11,7 @@ Result:
 Evaluation (im missing the std values):
 ![](static/eval.png)
 ## Overall workflow
-![](static/overall-workflow.png)
+![](static/overall-workflow.PNG)
 
 ## Comparation tasks
 There's options to implement in other ways to get insights which method will fit problem.
