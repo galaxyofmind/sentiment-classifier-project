@@ -4,8 +4,8 @@
 - U can read details in temp_pipeline or demo_pipeline file.
 
 ## Result
-Input: >31k review records (e-commerce). 
-Label: neg/neu/pos.
+Input: >31k review records (e-commerce).   
+Label: neg/neu/pos.   
 Result:
 ![](static/fm.png)
 Evaluation (im missing the std values):
