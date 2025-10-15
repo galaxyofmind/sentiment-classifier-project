@@ -1,0 +1,10 @@
+Flask
+pandas
+numpy
+joblib
+matplotlib
+collections
+scikit-learn
+numpy
+seaborn
+underthesea
